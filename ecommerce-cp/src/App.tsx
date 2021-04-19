@@ -1,15 +1,9 @@
-import Navbar from "./components/Navbar";
-import Footer from "./components/Footer";
-import Banner from "./components/Banner";
-import Books from "./components/Books";
+import Routes from './routes';
 
 function App() {
   return (
     <div>
-      <Navbar/>
-      <Banner/>
-      <Books/>
-      <Footer/>
+      <Routes/>
     </div>
   );
 }

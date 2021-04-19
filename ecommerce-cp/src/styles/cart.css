@@ -1,0 +1,237 @@
+.h1-cart{
+    position: absolute;
+    width: 265px;
+    height: 44px;
+    left: 113px;
+    top: 134px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+    color: #1C2A39;
+}
+.cart{
+    display: block;
+    width: 963px;
+    height: 190px;
+}
+.cart-book1{
+    position: absolute;
+    width: 134.27px;
+    height: 190px;
+    left: 239px;
+    top: 233px;
+}
+.p1-book1{
+    position: absolute;
+    width: 176px;
+    height: 20px;
+    left: 401px;
+    top: 247px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #1C2A39;
+}
+.p2-book1{
+    position: absolute;
+    width: 54px;
+    height: 14px;
+    left: 401px;
+    top: 269px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 14px;
+    text-transform: capitalize;
+    color: #5C6A79;
+}
+.text-book1{
+    position: absolute;
+    width: 517px;
+    height: 38px;
+    left: 401px;
+    top: 301px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 14px;
+    text-transform: capitalize;
+    color: #5C6A79;
+}
+.price-book1{
+    position: absolute;
+    width: 94px;
+    height: 29px;
+    left: 407px;
+    top: 347px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    text-transform: uppercase;
+    color: #1C2A39;
+}
+.portion-book1{
+    position: absolute;
+    width: 95px;
+    height: 22px;
+    left: 407px;
+    top: 387px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    text-transform: uppercase;
+    color: #1C2A39;
+}
+.btn1-qtd{
+    display: inline-grid;
+    grid-template-columns: 46px 46px;
+    position: absolute;
+    height: 45px;
+    left: 1102px;
+    top: 279px;
+}
+.btn1-qtd input{
+    margin-right: 10px;
+    border: 1px solid #4C3DB2;
+    background-color: #fff;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    text-transform: uppercase;
+    color: #4C3DB2;
+}
+.btn1-qtd input:hover{
+    border: none;
+    background-color: #4C3DB2;
+    color: #fff;
+    transition: 0.8s;
+}
+.cart-book2{
+    position: absolute;
+    width: 133.56px;
+    height: 189px;
+    left: 239px;
+    top: 494px;
+}
+.p1-book2{
+    position: absolute;
+    width: 176px;
+    height: 20px;
+    left: 401px;
+    top: 507px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #1C2A39;
+}
+.p2-book2{
+    position: absolute;
+    width: 82px;
+    height: 14px;
+    left: 401px;
+    top: 529px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 14px;
+    text-transform: capitalize;
+    color: #5C6A79;
+}
+.text-book2{
+    position: absolute;
+    width: 517px;
+    height: 38px;
+    left: 401px;
+    top: 561px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 14px;
+    text-transform: capitalize;
+    color: #5C6A79;
+}
+.price-book2{
+    position: absolute;
+    width: 101px;
+    height: 29px;
+    left: 407px;
+    top: 607px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+    text-transform: uppercase;
+    color: #1C2A39;
+}
+.portion-book2{
+    position: absolute;
+    width: 102px;
+    height: 22px;
+    left: 407px;
+    top: 647px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    text-transform: uppercase;
+    color: #1C2A39;
+}
+.btn2-qtd{
+    display: inline-grid;
+    grid-template-columns: 46px 46px;
+    position: absolute;
+    height: 45px;
+    left: 1102px;
+    top: 539px;
+}
+.btn2-qtd input{
+    margin-right: 10px;
+    border: 1px solid #4C3DB2;
+    background-color: #fff;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    text-transform: uppercase;
+    color: #4C3DB2;
+}
+.btn2-qtd input:hover{
+    border: none;
+    background-color: #4C3DB2;
+    color: #fff;
+    transition: 0.8s;
+}
+.btn-checkout{
+    position: absolute;
+    width: 176px;
+    height: 45px;
+    left: 1026px;
+    top: 800px;
+    color: #4C3DB2;
+    border: 1px solid #4C3DB2;
+    background-color: #fff;
+}
+.btn-checkout:hover{
+    border: none;
+    background-color: #4C3DB2;
+    color: #fff;
+    transition: 0.8s;
+}

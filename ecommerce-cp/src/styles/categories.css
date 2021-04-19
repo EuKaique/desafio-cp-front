@@ -1,0 +1,428 @@
+/*CONFIGURAÇÃO CSS PARA PÁGINA DE CATEGORIAS*/
+.page-categories{
+    position: absolute;
+    width: 416px;
+    height: 710px;
+    left: 0px;
+    top: 222px;
+    background: #EFEEF6;
+}
+.page-categories ul{
+    list-style: none;
+    top: 50px;
+    left: 85px;
+    position: absolute;
+}
+.h1-categories{
+    position: absolute;
+    width: 160px;
+    height: 44px;
+    left: 113px;
+    top: 139px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+    color: #1C2A39;
+}
+.categories-books{
+    position: absolute;
+    display: flex;
+}
+.categories-book{
+    display: inline-block;
+    width: 424px;
+    height: 300px;
+    left: 336px;
+    top: 268px;
+}
+.book-c1{
+    position: absolute;
+    width: 212px;
+    height: 300px;
+    left: 336px;
+    top: 268px;
+  }
+.p1-bookc1{
+    position: absolute;
+    width: 74px;
+    height: 14px;
+    left: 604px;
+    top: 317px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 14px;
+    text-transform: capitalize;
+    color: #5C6A79;
+}
+.p2-bookc1{
+    position: absolute;
+    width: 176px;
+    height: 20px;
+    left: 604px;
+    top: 335px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #1C2A39;
+}
+.stars-bookc1{
+    position: absolute;
+    width: 121px;
+    height: 14px;
+    left: 604px;
+    top: 359px;
+}
+.text-bookc1{
+    position: absolute;
+    width: 176px;
+    height: 38px;
+    left: 604px;
+    top: 389px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 14px;
+    text-transform: capitalize;
+    color: #5C6A79;
+}
+.price-bookc1{
+    position: absolute;
+    width: 50px;
+    height: 16px;
+    left: 661px;
+    top: 443px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 16px;
+    text-decoration-line: line-through;
+    text-transform: uppercase;
+    color: #BDBDBD;
+}
+.discount-bookc1{
+    position: absolute;
+    width: 51px;
+    height: 16px;
+    left: 604px;
+    top: 443px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #1C2A39;
+}
+.btn-bookc1{
+    position: absolute;
+    width: 176px;
+    height: 45px;
+    left: 604px;
+    top: 475px;
+    font-size: 12px;
+    border: 1px solid #4C3DB2;
+    color: #4C3DB2;
+    background-color: transparent;
+}
+.btn-bookc1:hover{
+    border: none;
+    color: #fff;
+    background-color: #4C3DB2;
+    transition: 1s;
+}
+.book-c2{
+    position: absolute;
+    width: 212px;
+    height: 300px;
+    left: 836px;
+    top: 277px;
+}
+.p1-bookc2{
+    position: absolute;
+    width: 95px;
+    height: 14px;
+    left: 1074px;
+    top: 317px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 14px;
+    text-transform: capitalize;
+    color: #5C6A79;
+}
+.p2-bookc2{
+    position: absolute;
+    width: 176px;
+    height: 20px;
+    top: 335px;
+    left: 1074px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #1C2A39;
+}
+.stars-bookc2{
+    position: absolute;
+    width: 127px;
+    height: 14px;
+    left: 1074px;
+    top: 359px;
+}
+.text-bookc2{
+    position: absolute;
+    width: 176px;
+    height: 38px;
+    left: 1074px;
+    top: 389px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 14px;
+    text-transform: capitalize;
+    color: #5C6A79;
+}
+.price-bookc2{
+    position: absolute;
+    width: 51px;
+    height: 16px;
+    left: 1128px;
+    top: 443px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 16px;
+    text-decoration-line: line-through;
+    text-transform: uppercase;
+    color: #BDBDBD;
+}
+.discount-bookc2{
+    position: absolute;
+    width: 46px;
+    height: 16px;
+    left: 1074px;
+    top: 443px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #1C2A39;
+}
+.btn-bookc2{
+    position: absolute;
+    width: 176px;
+    height: 45px;
+    left: 1074px;    
+    top: 475px;
+    font-size: 12px;
+    border: 1px solid #4C3DB2;
+    color: #4C3DB2;
+    background-color: transparent;
+}
+.btn-bookc2:hover{
+    border: none;
+    color: #fff;
+    background-color: #4C3DB2;
+    transition: 1s;
+}
+.book-c3{
+    position: absolute;
+    width: 212px;
+    height: 300px;
+    left: 336px;
+    top: 664px;
+}
+.p1-bookc3{
+    position: absolute;
+    width: 85px;
+    height: 14px;
+    left: 604px;
+    top: 712px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 14px;
+    text-transform: capitalize;
+    color: #5C6A79;
+}
+.p2-bookc3{
+    position: absolute;
+    width: 176px;
+    height: 20px;
+    left: 604px;
+    top: 730px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #1C2A39;
+}
+.stars-bookc3{
+    position: absolute;
+    width: 127px;
+    height: 14px;
+    left: 604px;
+    top: 754px;
+}
+.text-bookc3{
+    position: absolute;
+    width: 176px;
+    height: 38px;
+    left: 604px;
+    top: 784px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 14px;
+    text-transform: capitalize;
+    color: #5C6A79;
+}
+.price-bookc3{
+    position: absolute;
+    width: 50px;
+    height: 16px;
+    left: 661px;
+    top: 839px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 16px;
+    text-decoration-line: line-through;
+    text-transform: uppercase;
+    color: #BDBDBD;
+}
+.discount-bookc3{
+    position: absolute;
+    width: 51px;
+    height: 16px;
+    left: 604px;
+    top: 839px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #1C2A39;
+}
+.btn-bookc3{
+    position: absolute;
+    width: 176px;
+    height: 45px;
+    left: 604px;
+    top: 871px;
+    font-size: 12px;
+    border: 1px solid #4C3DB2;
+    color: #4C3DB2;
+    background-color: transparent;
+}
+.btn-bookc3:hover{
+    border: none;
+    color: #fff;
+    background-color: #4C3DB2;
+    transition: 1s;
+}
+.book-c4{
+    position: absolute;
+    width: 212px;
+    height: 300px;
+    left: 836px;
+    top: 651px;
+}
+.p1-bookc4{
+    position: absolute;
+    width: 95px;
+    height: 14px;
+    left: 1074px;
+    top: 713px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 14px;
+    text-transform: capitalize;
+    color: #5C6A79;
+}
+.p2-bookc4{
+    position: absolute;
+    width: 176px;
+    height: 20px;
+    top: 731px;
+    left: 1074px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #1C2A39;
+}
+.stars-bookc4{
+    position: absolute;
+    width: 127px;
+    height: 14px;
+    left: 1074px;
+    top: 755px;
+}
+.text-bookc4{
+    position: absolute;
+    width: 176px;
+    height: 38px;
+    left: 1074px;
+    top: 785px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 14px;
+    text-transform: capitalize;
+    color: #5C6A79;
+}
+.price-bookc4{
+    position: absolute;
+    width: 51px;
+    height: 16px;
+    left: 1128px;
+    top: 839px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 16px;
+    text-decoration-line: line-through;
+    text-transform: uppercase;
+    color: #BDBDBD;
+}
+.discount-bookc4{
+    position: absolute;
+    width: 46px;
+    height: 16px;
+    left: 1074px;
+    top: 839px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    line-height: 16px;
+    text-transform: uppercase;
+    color: #1C2A39;
+}
+.btn-bookc4{
+    position: absolute;
+    width: 176px;
+    height: 45px;
+    left: 1074px;    
+    top: 871px;
+    font-size: 12px;
+    border: 1px solid #4C3DB2;
+    color: #4C3DB2;
+    background-color: transparent;
+}
+.btn-bookc4:hover{
+    border: none;
+    color: #fff;
+    background-color: #4C3DB2;
+    transition: 1s;
+}

@@ -1,0 +1,537 @@
+/*MENU COM O BANNER*/
+.banner{
+    position: absolute;
+    width: 1070px;
+    height: 702px;
+    left: 110px;
+    top: 116px;
+    background: #FFE0E2;
+    box-shadow: 0px 6px 59px rgba(53, 49, 84, 0.08);
+  }
+  .person-1{
+    position: absolute;
+    left: 2%;
+    right: 72.32%;
+    top: 35.98%;
+    bottom: 0.05%;
+  }
+  .person-2{
+    position: absolute;
+    left: 24.96%;
+    right: 51.48%;
+    top: 40.52%;
+    bottom: -0.01%;
+  }
+  .person-3{
+    position: absolute;
+    left: 50.14%;
+    right: 23.74%;
+    top: 37.87%;
+    bottom: 0.01%;
+  }
+  .person-4{
+    position: absolute;
+    left: 77.86%;
+    right: 0%;
+    top: 33%;
+    bottom: 0%;
+  }
+  .promo-1{
+    position: absolute;
+    width: 149px;
+    height: 204px;
+    left: 936px;
+    top: 105px;
+  }
+  .promo-2{
+    position: absolute;
+    width: 137px;
+    height: 273px;
+    left: 947px;
+    top: 325px;
+  }
+  .p-banner{
+    position: absolute;
+    width: 245px;
+    height: 30px;
+    left: 416px;
+    top: 70px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #1C2A39;
+  }
+  .up{
+    position: absolute;
+    width: 88px;
+    height: 78px;
+    left: 330px;
+    top: 105px;
+  }
+  .label-60{
+    position: absolute;
+    width: 260px;
+    height: 235px;
+    left: 410px;
+    top: 82px;
+  }
+  .percent{
+    position: absolute;
+    width: 58px;
+    height: 78px;
+    left: 665px;
+    top: 203px;
+  }
+  /*LIVROS DO SITE*/
+    .categories{
+      position: absolute;
+      width: 416px;
+      height: 710px;
+      left: 0px;
+      top: 952px;
+      background-color: #EFEEF6;
+    }
+    .categories ul{
+      position: absolute;
+      list-style: none;
+      top: 50px;
+      left: 85px;
+    }
+    .li-categorie{
+      width: 202px;
+      height: 15px;
+      left: 60px;
+      margin-top: 20px;
+      font-style: normal;
+      font-weight: 500;
+      font-size: 14px;
+      text-transform: capitalize;
+      color: #5C6A79;
+    }
+    .li-categorie a{
+      text-decoration: none;
+      color: #5C6A79;
+    }
+    .ellipse{
+      position: absolute;
+      width: 10px;
+      height: 10px;
+      margin-top: 15px;
+    }
+    .li-categories {
+      width: 89px;
+      height: 20px;
+      margin-left: 20px;
+      top: 0;
+      margin-bottom: 60px;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 16px;
+      line-height: 20px;
+      text-transform: capitalize;
+      color: #1C2A39;
+    }
+    .books{
+      position: absolute;
+      display: flex;
+    }
+    .book{
+      display: inline-block;
+      width: 424px;
+      height: 300px;
+      left: 356px;
+      top: 998px;
+    }
+    .book_1{
+      position: absolute;
+      width: 212px;
+      height: 300px;
+      left: 336px;
+      top: 998px;
+    }
+    .p1_book1{
+      position: absolute;
+      width: 74px;
+      height: 14px;
+      left: 604px;
+      top: 1047px;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 10px;
+      line-height: 14px;
+      text-transform: capitalize;
+      color: #5C6A79;
+    }
+    .p2_book1{
+      position: absolute;
+      width: 176px;
+      height: 20px;
+      left: 604px;
+      top: 1065px;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 16px;
+      line-height: 20px;
+      color: #1C2A39;
+    }
+    .stars_book1{
+      position: absolute;
+      width: 121px;
+      height: 14px;
+      left: 604px;
+      top: 1089px;
+    }
+    .text_book1{
+      position: absolute;
+      width: 176px;
+      height: 38px;
+      left: 604px;
+      top: 1119px;
+      font-family: Open Sans;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 10px;
+      line-height: 14px;
+      text-transform: capitalize;
+      color: #5C6A79;
+    }
+    .price_book1{
+      position: absolute;
+      width: 50px;
+      height: 16px;
+      left: 661px;
+      top: 1173px;
+      font-family: Montserrat;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 13px;
+      line-height: 16px;
+      text-decoration-line: line-through;
+      text-transform: uppercase;
+      color: #BDBDBD;
+    }
+    .discount_book1{
+      position: absolute;
+      width: 51px;
+      height: 16px;
+      left: 604px;
+      top: 1173px;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 13px;
+      line-height: 16px;
+      text-transform: uppercase;
+      color: #1C2A39;
+    }
+    .btn_book1{
+      position: absolute;
+      width: 176px;
+      height: 45px;
+      left: 604px;
+      top: 1205px;
+      font-size: 12px;
+      border: 1px solid #4C3DB2;
+      color: #4C3DB2;
+      background-color: transparent;
+    }
+    .btn_book1:hover{
+      border: none;
+      color: #fff;
+      background-color: #4C3DB2;
+      transition: 1s;
+    }
+    .book_2{
+      position: absolute;
+      width: 212px;
+      height: 300px;
+      left: 836px;
+      top: 998px;
+    }
+    .p1_book2{
+      position: absolute;
+      width: 95px;
+      height: 14px;
+      left: 1074px;
+      top: 1047px;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 10px;
+      line-height: 14px;
+      text-transform: capitalize;
+      color: #5C6A79;
+    }
+    .p2_book2{
+      position: absolute;
+      width: 176px;
+      height: 20px;
+      top: 1067px;
+      left: 1074px;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 16px;
+      line-height: 20px;
+      color: #1C2A39;
+    }
+    .stars_book2{
+      position: absolute;
+      width: 127px;
+      height: 14px;
+      left: 1074px;
+      top: 1089px;
+    }
+    .text_book2{
+      position: absolute;
+      width: 176px;
+      height: 38px;
+      left: 1074px;
+      top: 1119px;
+      font-family: Open Sans;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 10px;
+      line-height: 14px;
+      text-transform: capitalize;
+      color: #5C6A79;
+    }
+    .price_book2{
+      position: absolute;
+      width: 51px;
+      height: 16px;
+      left: 1128px;
+      top: 1173px;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 13px;
+      line-height: 16px;
+      text-decoration-line: line-through;
+      text-transform: uppercase;
+      color: #BDBDBD;
+    }
+    .discount_book2{
+      position: absolute;
+      width: 46px;
+      height: 16px;
+      left: 1074px;
+      top: 1173px;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 13px;
+      line-height: 16px;
+      text-transform: uppercase;
+      color: #1C2A39;
+    }
+    .btn_book2{
+      position: absolute;
+      width: 176px;
+      height: 45px;
+      left: 1074px;    
+      top: 1205px;
+      font-size: 12px;
+      border: 1px solid #4C3DB2;
+      color: #4C3DB2;
+      background-color: transparent;
+    }
+    .btn_book2:hover{
+      border: none;
+      color: #fff;
+      background-color: #4C3DB2;
+      transition: 1s;
+    }
+    .book_3{
+      position: absolute;
+      width: 212px;
+      height: 300px;
+      left: 336px;
+      top: 1394px;
+    }
+    .p1_book3{
+      position: absolute;
+      width: 85px;
+      height: 14px;
+      left: 604px;
+      top: 1442px;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 10px;
+      line-height: 14px;
+      text-transform: capitalize;
+      color: #5C6A79;
+    }
+    .p2_book3{
+      position: absolute;
+      width: 176px;
+      height: 20px;
+      left: 604px;
+      top: 1460px;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 16px;
+      line-height: 20px;
+      color: #1C2A39;
+    }
+    .stars_book3{
+      position: absolute;
+      width: 127px;
+      height: 14px;
+      left: 604px;
+      top: 1484px;
+    }
+    .text_book3{
+      position: absolute;
+      width: 176px;
+      height: 38px;
+      left: 604px;
+      top: 1514px;
+      font-family: Open Sans;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 10px;
+      line-height: 14px;
+      text-transform: capitalize;
+      color: #5C6A79;
+    }
+    .price_book3{
+      position: absolute;
+      width: 50px;
+      height: 16px;
+      left: 661px;
+      top: 1569px;
+      font-family: Montserrat;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 13px;
+      line-height: 16px;
+      text-decoration-line: line-through;
+      text-transform: uppercase;
+      color: #BDBDBD;
+    }
+    .discount_book3{
+      position: absolute;
+      width: 51px;
+      height: 16px;
+      left: 604px;
+      top: 1569px;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 13px;
+      line-height: 16px;
+      text-transform: uppercase;
+      color: #1C2A39;
+    }
+    .btn_book3{
+      position: absolute;
+      width: 176px;
+      height: 45px;
+      left: 604px;
+      top: 1601px;
+      font-size: 12px;
+      border: 1px solid #4C3DB2;
+      color: #4C3DB2;
+      background-color: transparent;
+    }
+    .btn_book3:hover{
+      border: none;
+      color: #fff;
+      background-color: #4C3DB2;
+      transition: 1s;
+    }
+    .book_4{
+      position: absolute;
+      width: 212px;
+      height: 300px;
+      left: 836px;
+      top: 1394px;
+    }
+    .p1_book4{
+      position: absolute;
+      width: 95px;
+      height: 14px;
+      left: 1074px;
+      top: 1443px;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 10px;
+      line-height: 14px;
+      text-transform: capitalize;
+      color: #5C6A79;
+    }
+    .p2_book4{
+      position: absolute;
+      width: 176px;
+      height: 20px;
+      top: 1461px;
+      left: 1074px;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 16px;
+      line-height: 20px;
+      color: #1C2A39;
+    }
+    .stars_book4{
+      position: absolute;
+      width: 127px;
+      height: 14px;
+      left: 1074px;
+      top: 1485px;
+    }
+    .text_book4{
+      position: absolute;
+      width: 176px;
+      height: 38px;
+      left: 1074px;
+      top: 1515px;
+      font-family: Open Sans;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 10px;
+      line-height: 14px;
+      text-transform: capitalize;
+      color: #5C6A79;
+    }
+    .price_book4{
+      position: absolute;
+      width: 51px;
+      height: 16px;
+      left: 1128px;
+      top: 1569px;
+      font-style: normal;
+      font-weight: 600;
+      font-size: 13px;
+      line-height: 16px;
+      text-decoration-line: line-through;
+      text-transform: uppercase;
+      color: #BDBDBD;
+    }
+    .discount_book4{
+      position: absolute;
+      width: 46px;
+      height: 16px;
+      left: 1074px;
+      top: 1569px;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 13px;
+      line-height: 16px;
+      text-transform: uppercase;
+      color: #1C2A39;
+    }
+    .btn_book4{
+      position: absolute;
+      width: 176px;
+      height: 45px;
+      left: 1074px;    
+      top: 1601px;
+      font-size: 12px;
+      border: 1px solid #4C3DB2;
+      color: #4C3DB2;
+      background-color: transparent;
+    }
+    .btn_book4:hover{
+      border: none;
+      color: #fff;
+      background-color: #4C3DB2;
+      transition: 1s;
+    }
